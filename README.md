@@ -1,8 +1,11 @@
 # Godot-4-rpg-tutorial
 
-Following along HeartBeast series, but adapting along the way for godot 4.
+Following along HeartBeast series, but adapting along the way for [Godot 4](https://godotengine.org/).
 
-You can follow the free tutorial series online made for Godot 3.2 [on HeartBeast YouTube channel](https://www.youtube.com/watch?v=mAbG8Oi-SvQ&list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a)
+You can follow the free tutorial series online made for Godot 3.2 [on HeartBeast YouTube channel](https://www.youtube.com/watch?v=mAbG8Oi-SvQ&list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a).
+
+
+![image](https://user-images.githubusercontent.com/11405075/222934415-7ead9db8-9884-4008-8e2c-60c5115b05dd.png)
 
 ### Done:
 
